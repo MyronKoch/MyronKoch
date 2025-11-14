@@ -5,7 +5,7 @@ Builder of the MBSS v3.0 standard. 19 blockchain MCP servers. Meta-factory autom
 
 ---
 ### 🎓 Academic Recognition
-Guest lecturer at Harvard (2x), MIT, Princeton, Oxford, NYU, Cornell Tech  
+Guest lecturer at Harvard, MIT, Princeton, NYU, Cornell Tech, Oxford  
 **Topic:** "Breaking Barriers: AI as Universal Interface for Complex Systems"
 
 **Speaking:**
