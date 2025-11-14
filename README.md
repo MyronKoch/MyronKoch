@@ -1,4 +1,4 @@
-# Hi 👋 My name is Myron Koch
+# Myron Koch
 ## AI x Blockchain Architect | Ivy League Guest Lecturer
 
 Builder of the MBSS v3.0 standard. 19 blockchain MCP servers. Meta-factory automation.
