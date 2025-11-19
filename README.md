@@ -35,7 +35,7 @@ I specialize in **seeing problems before markets recognize them**:
 * 🌍  Based in Louisville, Kentucky
 * 🌐  [myronkoch.dev](https://myronkoch.dev)
 * ✉️  **myronkoch.dev@gmail.com**
-* 💼  **Goal:** Contributing to AGI safety at Anthropic
+* 💼  **Goal:** Contributing to AGI
 
 ---
 <p align="center">
