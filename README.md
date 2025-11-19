@@ -10,7 +10,7 @@ Guest lecturer at Harvard, MIT, Princeton, NYU, Cornell Tech, Oxford
 
 **Speaking:**
 - 🎤 **Web3 Summit Amsterdam** - Keynote (2024)
-- 🎓 **Harvard, MIT, Princeton, Oxford** - Research presentations (2024-2025)
+- 🎓 **Harvard, MIT, Princeton, Oxford** - Research lectres (2024-2025)
 - 🎓 **NYU, Cornell Tech** - AI x Blockchain seminars (2024-2025)
 
 ---
