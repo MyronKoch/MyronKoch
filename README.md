@@ -1,58 +1,55 @@
-# Myron Koch  
-**AI Engineer • Systems Architect • MCP Toolsmith • Blockchain Automation Researcher**
+# Myron Koch
 
-I build natural-language automation layers over complex systems — blockchains, agents, terminals, and local models — with a focus on local-first engineering and real-world orchestration. My work bridges advanced AI tooling with practical software workflows, creating systems that feel intuitive, fast, and powerful.
+**AI Systems Architect** · Building agent infrastructure, multi-chain protocols, and semantic memory systems
 
-### 🧠 What I Work On
-- **Agentic systems + multi-agent coordination**
-- **MCP servers** (blockchain tools, orchestration layers, memory systems)
-- **Local-first AI pipelines** (Ollama, LM Studio, FastAPI, Rust, Node)
-- **Terminal automation** using natural language interfaces
-- **Blockchain integrations** (Cosmos SDK, EVM ecosystems, Solana, and custom tooling)
-- **Large-context analysis + model-assisted research**
-- **Voice interfaces + realtime interaction models**
-
-### 🚀 Notable Projects
-- **Blockchain MCP Server Suite**  
-  A large collection of chain-specific and chain-agnostic MCP servers enabling direct natural-language interaction with blockchain infrastructure.
-
-- **MCP Server that Builds MCP Servers**  
-  A generative toolchain that scaffolds new blockchain-focused MCP servers following a published standard.
-
-- **Multi-Agent TMUX Orchestrator**  
-  A coordinator agent that spins up a tmux session, manages six specialized sub-agents, and performs collaborative workflows inside a live terminal.
-
-- **BMCPS.dev Standard**  
-  A naming and structural standard for blockchain MCP tooling.  
-  👉 https://bmcps.dev
-
-- **Web3 + AI Technical Blog (Operational Semantics)**  
-  Deep-dive essays on agentic workflows, blockchain automation, large-context analysis, and AI systems architecture.  
-  👉 https://myronkoch.dev
-
-### 🏛️ Guest Lectures & Talks
-I’ve presented at:
-- **Oxford University**
-- **Harvard**
-- **MIT**
-- **Princeton**
-- **Cornell Tech**
-- **NYU**
-- **Web3 Summit – Amsterdam (Keynote)**
-
-Topics include agentic workflows, blockchain automation, large-context research methods, and AI-accelerated engineering.
-
-### 🛠️ Current Stack
-- **Languages:** TypeScript, Rust, Python  
-- **AI Tooling:** MCP, Claude, Gemini, OpenAI, Ollama, LM Studio  
-- **Frameworks:** FastAPI, Node.js, Vercel AI SDK, CrewAI, tmux agents  
-- **Domains:** Blockchain automation, agent orchestration, local inference, systems design
-
-### 📫 Reach Me
-**Email:** hello@myronkoch.dev  
-**Blog:** https://myronkoch.dev  
-**Substack:** https://myronkoch.substack.com  
+[![Blog](https://img.shields.io/badge/Blog-operationalsemantics.dev-blue?style=flat-square)](https://operationalsemantics.dev)
+[![BMCPS Standard](https://img.shields.io/badge/Standard-BMCPS_v3.0-orange?style=flat-square)](https://bmcps.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-myronkoch.dev-green?style=flat-square)](https://myronkoch.dev)
 
 ---
 
-I build systems that reduce complexity, increase velocity, and let humans interact with technology the way they think — directly, conversationally, and without friction.
+### What I Build
+
+I create natural-language interfaces over complex systems — blockchains, AI agents, terminals, and local models. My focus is local-first engineering and production-ready orchestration.
+
+**Current work:**
+- **MCP Servers** — 7 production servers, 200+ tools across blockchain and AI infrastructure
+- **Multi-Agent Systems** — 6-agent tmux coordination for parallel AI workflows  
+- **Semantic Memory** — PostgreSQL + pgvector memory system for Claude with cross-device sync
+- **BMCPS v3.0** — The standard for blockchain MCP servers ([bmcps.dev](https://bmcps.dev))
+
+---
+
+### Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| [**longterm-memory-macos**](https://github.com/MyronKoch/longterm-memory-macos) | PostgreSQL + pgvector semantic memory for Claude with browser extension and dashboard |
+| [**multi-agent-orchestration-platform**](https://github.com/MyronKoch/multi-agent-orchestration-platform) | 6-agent tmux coordination system for parallel AI development |
+| [**blockchain-mcp-factory**](https://github.com/MyronKoch/blockchain-mcp-factory) | Meta-MCP server that generates BMCPS v3.0 compliant servers automatically |
+| [**evm-chains-mcp-server**](https://github.com/MyronKoch/evm-chains-mcp-server) | 111 tools across 7 EVM chains (Ethereum, Polygon, Avalanche, Arbitrum, etc.) |
+| [**nft-pipeline-mcp-server**](https://github.com/MyronKoch/nft-pipeline-mcp-server) | End-to-end NFT creation: AI generation → IPFS → metadata → mint-ready |
+| [**ccxt-mcp-server**](https://github.com/MyronKoch/ccxt-mcp-server) | Unified access to 106+ cryptocurrency exchanges with arbitrage detection |
+
+---
+
+### Speaking
+
+Guest lectures at **Oxford**, **Harvard**, **MIT**, **Princeton**, **Cornell Tech**, **NYU**, and keynote at **Web3 Summit Amsterdam** — topics include agentic workflows, blockchain automation, and AI systems architecture.
+
+---
+
+### Stack
+
+**Languages:** TypeScript, Python, Rust  
+**AI:** Claude, MCP, Ollama, LM Studio, OpenAI  
+**Infrastructure:** PostgreSQL, pgvector, FastAPI, Node.js
+
+---
+
+<p align="center">
+  <a href="mailto:hello@myronkoch.dev">hello@myronkoch.dev</a> · 
+  <a href="https://operationalsemantics.dev">Blog</a> · 
+  <a href="https://linkedin.com/in/myronkoch">LinkedIn</a> · 
+  <a href="https://x.com/myronkoch">X</a>
+</p>
