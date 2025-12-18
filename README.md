@@ -25,7 +25,7 @@ I create natural-language interfaces over complex systems — blockchains, AI ag
 | Project | Description |
 |---------|-------------|
 | [**longterm-memory-macos**](https://github.com/MyronKoch/longterm-memory-macos) | PostgreSQL + pgvector semantic memory for Claude with browser extension and dashboard |
-| [**multi-agent-orchestration-platform**](https://github.com/MyronKoch/multi-agent-orchestration-platform) | 6-agent tmux coordination system for parallel AI development |
+| [**ai-team-orchestrator**](https://github.com/MyronKoch/ai-team-orchestrator) | Model-agnostic 6-agent tmux coordination with 33 team templates |
 | [**blockchain-mcp-factory**](https://github.com/MyronKoch/blockchain-mcp-factory) | Meta-MCP server that generates BMCPS v3.0 compliant servers automatically |
 | [**evm-chains-mcp-server**](https://github.com/MyronKoch/evm-chains-mcp-server) | 111 tools across 7 EVM chains (Ethereum, Polygon, Avalanche, Arbitrum, etc.) |
 | [**nft-pipeline-mcp-server**](https://github.com/MyronKoch/nft-pipeline-mcp-server) | End-to-end NFT creation: AI generation → IPFS → metadata → mint-ready |
