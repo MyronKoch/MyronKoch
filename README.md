@@ -48,7 +48,7 @@ Guest lectures at **Oxford**, **Harvard**, **MIT**, **Princeton**, **Cornell Tec
 ---
 
 <p align="center">
-  <a href="mailto:hello@myronkoch.dev">hello@myronkoch.dev</a> · 
+  <a href="mailto:myron@myronkoch.dev">hello@myronkoch.dev</a> · 
   <a href="https://operationalsemantics.dev">Blog</a> · 
   <a href="https://linkedin.com/in/myronkoch">LinkedIn</a> · 
   <a href="https://x.com/myronkoch">X</a>
