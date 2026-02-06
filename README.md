@@ -14,9 +14,9 @@ I build infrastructure that connects AI models to real systems — giving agents
 
 My focus areas:
 
-- **MCP Server Architecture** — Designed and built 7 production MCP servers exposing 200+ tools. Published [BMCPS v3.0](https://bmcps.dev), an open standard for consistent, safe tool interfaces. Built a [meta-server](https://github.com/MyronKoch/blockchain-mcp-factory) that generates new MCP servers automatically from the standard.
+- **MCP Server Architecture** — Designed and built 7 production MCP servers exposing 200+ tools. Published [BMCPS v3.0](https://bmcps.dev), an open standard for consistent, safe tool interfaces. Built a meta-server that [generates new MCP servers automatically](https://operationalsemantics.dev/posts/11-mcp-factory-complete-story) from the standard.
 
-- **Multi-Agent Coordination** — Built a [6-agent orchestration system](https://github.com/MyronKoch/ai-team-orchestrator) with 33 team templates for parallel task execution. Model-agnostic — works with Claude, GPT, Ollama, and local models.
+- **Multi-Agent Coordination** — Built a [6-agent orchestration system](https://operationalsemantics.dev/posts/14-multi-agent-orchestration) with 33 team templates for parallel task execution. Model-agnostic — works with Claude, GPT, Ollama, and local models.
 
 - **Semantic Memory for Agents** — Created a [persistent memory system](https://github.com/MyronKoch/longterm-memory-macos) using PostgreSQL + pgvector that gives Claude long-term recall across sessions, with a browser extension and dashboard.
 
@@ -29,8 +29,8 @@ My focus areas:
 | Project | What It Does |
 |---------|-------------|
 | [**longterm-memory-macos**](https://github.com/MyronKoch/longterm-memory-macos) | Semantic memory for Claude — PostgreSQL + pgvector with browser extension and dashboard |
-| [**ai-team-orchestrator**](https://github.com/MyronKoch/ai-team-orchestrator) | Model-agnostic multi-agent coordination — 6-agent tmux workspace, 33 team templates, 19 MCP tools |
-| [**blockchain-mcp-factory**](https://github.com/MyronKoch/blockchain-mcp-factory) | Meta-MCP server — auto-generates standard-compliant MCP servers from a single schema definition |
+| [**ai-team-orchestrator**](https://operationalsemantics.dev/posts/14-multi-agent-orchestration) | Model-agnostic multi-agent coordination — 6-agent tmux workspace, 33 team templates, 19 MCP tools ([deep dive](https://operationalsemantics.dev/posts/15-the-ai-dream-team)) |
+| [**mcp-factory**](https://operationalsemantics.dev/posts/11-mcp-factory-complete-story) | Meta-MCP server — auto-generates standard-compliant MCP servers from a single schema ([how it works](https://operationalsemantics.dev/posts/12-mcp-factory-fantom-success)) |
 | [**evm-chains-mcp-server**](https://github.com/MyronKoch/evm-chains-mcp-server) | 111 tools across 7 networks — demonstrates MCP at scale for complex multi-system orchestration |
 | [**ccxt-mcp-server**](https://github.com/MyronKoch/ccxt-mcp-server) | Unified MCP interface to 106+ financial data APIs with real-time arbitrage detection |
 | [**academic-lectures**](https://github.com/MyronKoch/academic-lectures) | Lecture materials from teaching engagements at Ivy League institutions and Oxford |
