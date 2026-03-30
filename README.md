@@ -28,7 +28,8 @@ My focus areas:
 
 | Project | What It Does |
 |---------|-------------|
-| [**longterm-memory-macos**](https://github.com/MyronKoch/longterm-memory-macos) | Semantic memory for Claude — PostgreSQL + pgvector with browser extension and dashboard |
+| [**reminisce**](https://github.com/MyronKoch/reminisce) | Cognitive science-inspired memory architecture for AI agents -- working/episodic/semantic tiers with salience scoring. 98.3% precision on user recall. [Paper](https://github.com/MyronKoch/reminisce/blob/main/paper/reminisce.pdf) &#124; [Benchmark Data](https://huggingface.co/datasets/myronkoch/reminisce-longmemeval-results) |
+| [**longterm-memory-macos**](https://github.com/MyronKoch/longterm-memory-macos) | Semantic memory for Claude -- PostgreSQL + pgvector with browser extension and dashboard |
 | [**ai-team-orchestrator**](https://operationalsemantics.dev/posts/14-multi-agent-orchestration) | Model-agnostic multi-agent coordination — 6-agent tmux workspace, 33 team templates, 19 MCP tools ([deep dive](https://operationalsemantics.dev/posts/15-the-ai-dream-team)) |
 | [**mcp-factory**](https://operationalsemantics.dev/posts/11-mcp-factory-complete-story) | Meta-MCP server — auto-generates standard-compliant MCP servers from a single schema ([how it works](https://operationalsemantics.dev/posts/12-mcp-factory-fantom-success)) |
 | [**evm-chains-mcp-server**](https://github.com/MyronKoch/evm-chains-mcp-server) | 111 tools across 7 networks — demonstrates MCP at scale for complex multi-system orchestration |
@@ -45,12 +46,15 @@ See the full lecture portfolio: [academic-lectures](https://github.com/MyronKoch
 
 ---
 
-### Research Interests
+### Research
 
-- Natural-language control surfaces for real infrastructure
+**Publications:**
+- **[Reminisce: A Cognitive Science-Inspired Memory Architecture for AI Agents](https://github.com/MyronKoch/reminisce/blob/main/paper/reminisce.pdf)** (March 2026) -- Three-tier cognitive memory with salience scoring, evaluated on LongMemEvalS across 3 Claude model tiers. Key finding: precision is architecture-dependent (~81%) while coverage is model-dependent (29-40% abstention).
+
+**Interests:**
+- Cognitive science-inspired memory architectures for AI agents
 - Multi-agent cooperation and task decomposition
 - Tool-call runtimes and safe execution patterns
-- Autonomous workflow design with fail-safe operational semantics
 - Model behavior at the boundary of reasoning and action
 
 ---
