@@ -1,26 +1,27 @@
 # Myron Koch
 
-**AI Systems Architect** · Building the tooling layer between language models and real-world infrastructure
+**Independent AI Researcher & Engineer** - AI systems architecture, multi-agent orchestration, MCP infrastructure. Founder of [Peak Summit Labs](https://peaksummitlabs.com).
 
 [![Blog](https://img.shields.io/badge/Blog-operationalsemantics.dev-blue?style=flat-square)](https://operationalsemantics.dev)
 [![BMCPS Standard](https://img.shields.io/badge/Standard-BMCPS_v3.0-orange?style=flat-square)](https://bmcps.dev)
 [![Portfolio](https://img.shields.io/badge/Portfolio-myronkoch.dev-green?style=flat-square)](https://myronkoch.dev)
+[![Peak Summit Labs](https://img.shields.io/badge/Company-Peak_Summit_Labs-0ea5e9?style=flat-square)](https://peaksummitlabs.com)
 
 ---
 
-### What I Work On
+### What I Do
 
-I build infrastructure that connects AI models to real systems — giving agents the ability to query, deploy, orchestrate, and take action across live environments through structured tool interfaces.
+I build AI infrastructure and ship it as products. Research becomes tools. Tools become papers. Papers validate the tools. One flywheel.
 
-My focus areas:
+- **Multi-Agent Orchestration** - Cross-machine agent coordination across multiple Macs via Cloudflare Durable Objects. 80+ skills, 38 hooks, terminal-spawned agents with backchannel messaging. Not a framework - a production system I use daily.
 
-- **MCP Server Architecture** — Designed and built 7 production MCP servers exposing 200+ tools. Published [BMCPS v3.0](https://bmcps.dev), an open standard for consistent, safe tool interfaces. Built a meta-server that [generates new MCP servers automatically](https://operationalsemantics.dev/posts/11-mcp-factory-complete-story) from the standard.
+- **MCP Infrastructure** - 16+ MCP servers built. Authored [BMCPS v3.0](https://bmcps.dev), an open standard for safe MCP tool interfaces (25 mandatory tools, 238 automated tests, MIT licensed). Built a [meta-server that generates new MCP servers](https://operationalsemantics.dev/posts/11-mcp-factory-complete-story) from the standard.
 
-- **Multi-Agent Coordination** — Built a [6-agent orchestration system](https://operationalsemantics.dev/posts/14-multi-agent-orchestration) with 33 team templates for parallel task execution. Model-agnostic — works with Claude, GPT, Ollama, and local models.
+- **Semantic Memory** - [Persistent memory system](https://github.com/MyronKoch/longterm-memory-macos) using PostgreSQL + pgvector. 10,000+ observations, cross-device sync, semantic search across sessions. Published [research paper](https://huggingface.co/datasets/myronkoch/reminisce-longmemeval-results/blob/main/paper/reminisce.pdf) with 98.3% precision on LongMemEvalS benchmark.
 
-- **Semantic Memory for Agents** — Created a [persistent memory system](https://github.com/MyronKoch/longterm-memory-macos) using PostgreSQL + pgvector that gives Claude long-term recall across sessions, with a browser extension and dashboard.
+- **Open Source** - Contributor to [Rectangle](https://github.com/rxhanson/Rectangle) (25K+ stars). Added 8ths/9ths/12ths/16ths window divisions and position cycling system. [Merged PR #1720](https://github.com/rxhanson/Rectangle/pull/1720).
 
-- **Technical Writing** — 45 posts at [operationalsemantics.dev](https://operationalsemantics.dev) documenting the full arc from experimental MCP development to published standard.
+- **Shipped Products** - Two macOS apps on the App Store through [Peak Summit Labs](https://peaksummitlabs.com). Local-first, one-time pricing, no telemetry. I build what teams quote 9 months for - solo, using the AI infrastructure I built.
 
 ---
 
@@ -28,49 +29,63 @@ My focus areas:
 
 | Project | What It Does |
 |---------|-------------|
-| [**reminisce**](https://github.com/MyronKoch/reminisce) | Cognitive science-inspired memory architecture for AI agents -- working/episodic/semantic tiers with salience scoring. 98.3% precision on user recall. [Paper](https://github.com/MyronKoch/reminisce/blob/main/paper/reminisce.pdf) &#124; [Benchmark Data](https://huggingface.co/datasets/myronkoch/reminisce-longmemeval-results) |
-| [**longterm-memory-macos**](https://github.com/MyronKoch/longterm-memory-macos) | Semantic memory for Claude -- PostgreSQL + pgvector with browser extension and dashboard |
-| [**ai-team-orchestrator**](https://operationalsemantics.dev/posts/14-multi-agent-orchestration) | Model-agnostic multi-agent coordination — 6-agent tmux workspace, 33 team templates, 19 MCP tools ([deep dive](https://operationalsemantics.dev/posts/15-the-ai-dream-team)) |
-| [**mcp-factory**](https://operationalsemantics.dev/posts/11-mcp-factory-complete-story) | Meta-MCP server — auto-generates standard-compliant MCP servers from a single schema ([how it works](https://operationalsemantics.dev/posts/12-mcp-factory-fantom-success)) |
-| [**evm-chains-mcp-server**](https://github.com/MyronKoch/evm-chains-mcp-server) | 111 tools across 7 networks — demonstrates MCP at scale for complex multi-system orchestration |
+| [**reminisce**](https://github.com/MyronKoch/reminisce) | Cognitive science-inspired memory architecture for AI agents - working/episodic/semantic tiers with salience scoring. [Paper](https://huggingface.co/datasets/myronkoch/reminisce-longmemeval-results/blob/main/paper/reminisce.pdf) &#124; [Benchmark Data](https://huggingface.co/datasets/myronkoch/reminisce-longmemeval-results) |
+| [**longterm-memory-macos**](https://github.com/MyronKoch/longterm-memory-macos) | Semantic memory for Claude - PostgreSQL + pgvector with browser extension and dashboard |
+| [**evm-chains-mcp-server**](https://github.com/MyronKoch/evm-chains-mcp-server) | 111 tools across 7 networks - MCP at scale for complex multi-system orchestration |
 | [**ccxt-mcp-server**](https://github.com/MyronKoch/ccxt-mcp-server) | Unified MCP interface to 106+ financial data APIs with real-time arbitrage detection |
-| [**academic-lectures**](https://github.com/MyronKoch/academic-lectures) | Lecture materials from teaching engagements at Ivy League institutions and Oxford |
+| [**academic-lectures**](https://github.com/MyronKoch/academic-lectures) | Lecture materials from teaching at Ivy League institutions and Oxford |
 
 ---
 
 ### Speaking
 
-Guest lectures at **Harvard**, **MIT**, **Princeton**, **Cornell Tech**, **NYU**, and **Oxford**. Keynote at **Web3 Summit Amsterdam**. Topics include agentic workflows, LLM architectures, AI-driven automation, and building developer tools for emerging platforms.
+Guest lectures at **Harvard** (x2), **MIT Sloan**, **Princeton**, **Cornell Tech**, **NYU**, and **Oxford**. Keynote at **Web3 Summit Amsterdam**. Eight talks in six months on AI systems, agent orchestration, and MCP infrastructure.
 
-See the full lecture portfolio: [academic-lectures](https://github.com/MyronKoch/academic-lectures)
+Full lecture portfolio: [academic-lectures](https://github.com/MyronKoch/academic-lectures)
 
 ---
 
 ### Research
 
-**Publications:**
-- **[Reminisce: A Cognitive Science-Inspired Memory Architecture for AI Agents](https://github.com/MyronKoch/reminisce/blob/main/paper/reminisce.pdf)** (March 2026) -- Three-tier cognitive memory with salience scoring, evaluated on LongMemEvalS across 3 Claude model tiers. Key finding: precision is architecture-dependent (~81%) while coverage is model-dependent (29-40% abstention).
+**Published:**
+- **[Reminisce: A Cognitive Science-Inspired Memory Architecture for AI Agents](https://huggingface.co/datasets/myronkoch/reminisce-longmemeval-results/blob/main/paper/reminisce.pdf)** (2026) - Three-tier cognitive memory with salience scoring, evaluated on LongMemEvalS across 3 Claude model tiers. 98.3% precision. Published on Hugging Face.
 
 **Interests:**
 - Cognitive science-inspired memory architectures for AI agents
 - Multi-agent cooperation and task decomposition
 - Tool-call runtimes and safe execution patterns
-- Model behavior at the boundary of reasoning and action
+- Context engineering and prompt architecture
+
+---
+
+### Products (Peak Summit Labs)
+
+| Product | What It Is |
+|---------|-----------|
+| [**Push to Transcribe**](https://pushtotranscribe.com) | Voice-to-text for macOS. Hold a key, speak, release - text appears. Whisper-powered, fully local. $19.99 one-time. |
+| [**MarkDossier**](https://markdossier.com) | WYSIWYG markdown editor for macOS. Hot-reloads when agents write to your files. Token counting built in. $14.99 one-time. |
+
+---
+
+### Technical Writing
+
+45+ posts at [operationalsemantics.dev](https://operationalsemantics.dev) documenting the full journey from MCP experiments to published standard and multi-agent systems. Includes an 8-part series on the Ivy League lecture tour.
 
 ---
 
 ### Stack
 
-**Languages:** TypeScript, Python, Rust
-**AI Platforms:** Claude, MCP, Ollama, LM Studio, OpenAI
-**Infrastructure:** PostgreSQL, pgvector, Cloudflare Workers, Node.js, bun
+**Languages:** TypeScript, Python, Swift, Rust
+**AI:** Claude, MCP, Ollama, LM Studio
+**Infrastructure:** Cloudflare (Workers, D1, R2, Pages), PostgreSQL, pgvector, bun
 
 ---
 
 <p align="center">
-  <a href="https://operationalsemantics.dev">Blog</a> ·
-  <a href="https://bmcps.dev">BMCPS Standard</a> ·
-  <a href="https://myronkoch.dev">Portfolio</a> ·
-  <a href="https://linkedin.com/in/myronkoch">LinkedIn</a> ·
+  <a href="https://operationalsemantics.dev">Blog</a> -
+  <a href="https://bmcps.dev">BMCPS Standard</a> -
+  <a href="https://myronkoch.dev">Portfolio</a> -
+  <a href="https://peaksummitlabs.com">Peak Summit Labs</a> -
+  <a href="https://linkedin.com/in/myronkoch">LinkedIn</a> -
   <a href="https://x.com/myronkoch">X</a>
 </p>
