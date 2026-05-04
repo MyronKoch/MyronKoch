@@ -17,11 +17,11 @@ I build AI infrastructure and ship it as products. Research becomes tools. Tools
 
 - **MCP Infrastructure** - 16+ MCP servers built. Authored [BMCPS v3.0](https://bmcps.dev), an open standard for safe MCP tool interfaces (25 mandatory tools, 238 automated tests, MIT licensed). Built a [meta-server that generates new MCP servers](https://operationalsemantics.dev/posts/11-mcp-factory-complete-story) from the standard.
 
-- **Semantic Memory** - [Persistent memory system](https://github.com/MyronKoch/longterm-memory-macos) using PostgreSQL + pgvector. 10,000+ observations, cross-device sync, semantic search across sessions. Published [research paper](https://huggingface.co/datasets/myronkoch/reminisce-longmemeval-results/blob/main/paper/reminisce.pdf) with 98.3% precision on LongMemEvalS benchmark.
+- **Semantic Memory** - [Persistent memory system](https://github.com/MyronKoch/longterm-memory-macos) using PostgreSQL + pgvector. 10,000+ observations, cross-device sync, semantic search across sessions. [Research paper](https://huggingface.co/datasets/myronkoch/reminisce-longmemeval-results/blob/main/paper/reminisce.pdf) with 98.3% precision on LongMemEvalS benchmark.
 
 - **Open Source** - Contributor to [Rectangle](https://github.com/rxhanson/Rectangle) (25K+ stars). Added 8ths/9ths/12ths/16ths window divisions and position cycling system. [Merged PR #1720](https://github.com/rxhanson/Rectangle/pull/1720).
 
-- **Shipped Products** - Two macOS apps on the App Store through [Peak Summit Labs](https://peaksummitlabs.com). Local-first, one-time pricing, no telemetry. I build what teams quote 9 months for - solo, using the AI infrastructure I built.
+- **Shipped Products** - Three products through [Peak Summit Labs](https://peaksummitlabs.com). Local-first, one-time pricing, no telemetry. I build what teams quote 9 months for - solo, using the AI infrastructure I built.
 
 ---
 
@@ -47,14 +47,11 @@ Full lecture portfolio: [academic-lectures](https://github.com/MyronKoch/academi
 
 ### Research
 
-**Published:**
-- **[Reminisce: A Cognitive Science-Inspired Memory Architecture for AI Agents](https://huggingface.co/datasets/myronkoch/reminisce-longmemeval-results/blob/main/paper/reminisce.pdf)** (2026) - Three-tier cognitive memory with salience scoring, evaluated on LongMemEvalS across 3 Claude model tiers. 98.3% precision. Published on Hugging Face.
-
-**Interests:**
-- Cognitive science-inspired memory architectures for AI agents
-- Multi-agent cooperation and task decomposition
-- Tool-call runtimes and safe execution patterns
-- Context engineering and prompt architecture
+**Papers (preprints on Hugging Face, submitted to arXiv):**
+- **[PrimeAgentOrchestrator: Memory-Primed Agent Spawning for Personal AI Infrastructure](https://huggingface.co/datasets/myronkoch/prime-agent-orchestrator)** (2026) - Spawns coding agents pre-loaded with memories from PostgreSQL + semantic search. 15-task precision study, four months of production deployment.
+- **[Reminisce v2: Production Postmortem of an Episodic Memory System](https://huggingface.co/datasets/myronkoch/reminisce-production-postmortem)** (2026) - 70+ findings across 6 LLM models over four months of production debugging. All issues resolved.
+- **[Reminisce: A Cognitive Science-Inspired Memory Architecture for AI Agents](https://huggingface.co/datasets/myronkoch/reminisce-longmemeval-results/blob/main/paper/reminisce.pdf)** (2026) - Three-tier cognitive memory with salience scoring. 98.3% precision on LongMemEvalS benchmark.
+- **[DeadGraph: A Rights-Aware MCP Knowledge Base for Cultural Heritage Audio Collections](https://huggingface.co/datasets/myronkoch/deadgraph/blob/main/paper.pdf)** (2026) - 13 MCP tools, 200-question benchmark, +60.1 point accuracy gain over raw LLM.
 
 ---
 
@@ -63,7 +60,8 @@ Full lecture portfolio: [academic-lectures](https://github.com/MyronKoch/academi
 | Product | What It Is |
 |---------|-----------|
 | [**Push to Transcribe**](https://pushtotranscribe.com) | Voice-to-text for macOS. Hold a key, speak, release - text appears. Whisper-powered, fully local. $19.99 one-time. |
-| [**MarkDossier**](https://markdossier.com) | WYSIWYG markdown editor for macOS. Hot-reloads when agents write to your files. Token counting built in. $14.99 one-time. |
+| [**markdossier**](https://markdossier.com) | WYSIWYG markdown editor for macOS. Renders Claude Code and Codex sessions as conversations. Hot-reload, Quick Look, annotations. $29.99 one-time. |
+| [**DeadGraph**](https://deadgraph.com) | AI research assistant for the Grateful Dead's live history. 2,336 shows, 13 MCP tools, rights-aware pipeline. |
 
 ---
 
