@@ -59,8 +59,8 @@ Full lecture portfolio: [academic-lectures](https://github.com/MyronKoch/academi
 
 | Product | What It Is |
 |---------|-----------|
-| [**Push to Transcribe**](https://pushtotranscribe.com) | Voice-to-text for macOS. Hold a key, speak, release - text appears. Whisper-powered, fully local. $19.99 one-time. |
-| [**markdossier**](https://markdossier.com) | WYSIWYG markdown editor for macOS. Renders Claude Code and Codex sessions as conversations. Hot-reload, Quick Look, annotations. $29.99 one-time. |
+| [**Push to Transcribe**](https://pushtotranscribe.com) | Voice-to-text for macOS. Hold a key, speak, release - text appears. Whisper-powered, fully local. One-time purchase. |
+| [**markdossier**](https://markdossier.com) | WYSIWYG markdown editor for macOS. Renders Claude Code and Codex sessions as conversations. Hot-reload, Quick Look, annotations. One-time purchase. |
 | [**DeadGraph**](https://deadgraph.com) | AI research assistant for the Grateful Dead's live history. 2,336 shows, 13 MCP tools, rights-aware pipeline. |
 
 ---
