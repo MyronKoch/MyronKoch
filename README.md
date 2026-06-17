@@ -47,7 +47,7 @@ Full lecture portfolio: [academic-lectures](https://github.com/MyronKoch/academi
 
 ### Research
 
-**Papers (preprints on Hugging Face, submitted to arXiv):**
+**Papers (preprints on Hugging Face):**
 - **[PrimeAgentOrchestrator: Memory-Primed Agent Spawning for Personal AI Infrastructure](https://huggingface.co/datasets/myronkoch/prime-agent-orchestrator)** (2026) - Spawns coding agents pre-loaded with memories from PostgreSQL + semantic search. 15-task precision study, four months of production deployment.
 - **[Reminisce v2: Production Postmortem of an Episodic Memory System](https://huggingface.co/datasets/myronkoch/reminisce-production-postmortem)** (2026) - 70+ findings across 6 LLM models over four months of production debugging. All issues resolved.
 - **[Reminisce: A Cognitive Science-Inspired Memory Architecture for AI Agents](https://huggingface.co/datasets/myronkoch/reminisce-longmemeval-results/blob/main/paper/reminisce.pdf)** (2026) - Three-tier cognitive memory with salience scoring. 98.3% precision on LongMemEvalS benchmark.
