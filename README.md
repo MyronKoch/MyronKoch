@@ -47,11 +47,11 @@ Full lecture portfolio: [academic-lectures](https://github.com/MyronKoch/academi
 
 ### Research
 
-**Papers (preprints on Hugging Face):**
-- **[PrimeAgentOrchestrator: Memory-Primed Agent Spawning for Personal AI Infrastructure](https://huggingface.co/datasets/myronkoch/prime-agent-orchestrator)** (2026) - Spawns coding agents pre-loaded with memories from PostgreSQL + semantic search. 15-task precision study, four months of production deployment.
-- **[Reminisce v2: Production Postmortem of an Episodic Memory System](https://huggingface.co/datasets/myronkoch/reminisce-production-postmortem)** (2026) - 70+ findings across 6 LLM models over four months of production debugging. All issues resolved.
-- **[Reminisce: A Cognitive Science-Inspired Memory Architecture for AI Agents](https://huggingface.co/datasets/myronkoch/reminisce-longmemeval-results/blob/main/paper/reminisce.pdf)** (2026) - Three-tier cognitive memory with salience scoring. 98.3% precision on LongMemEvalS benchmark.
-- **[DeadGraph: A Rights-Aware MCP Knowledge Base for Cultural Heritage Audio Collections](https://huggingface.co/datasets/myronkoch/deadgraph/blob/main/paper.pdf)** (2026) - 13 MCP tools, 200-question benchmark, +60.1 point accuracy gain over raw LLM.
+**Papers (published on Zenodo with DOIs; datasets on Hugging Face):**
+- **[PrimeAgentOrchestrator: Memory-Primed Agent Spawning for Personal AI Infrastructure](https://doi.org/10.5281/zenodo.20735389)** (2026) - Spawns coding agents pre-loaded with memories from PostgreSQL + semantic search. 15-task precision study, four months of production deployment. DOI: [10.5281/zenodo.20735389](https://doi.org/10.5281/zenodo.20735389) · [data](https://huggingface.co/datasets/myronkoch/prime-agent-orchestrator)
+- **[The Placeholder That Became Production: A Postmortem of Extractive Memory Under Continuous Multi-Agent Ingestion](https://doi.org/10.5281/zenodo.20735397)** (2026) - Production postmortem of the Reminisce memory system; noise ratio 0% → 77.2%, total-cost-of-retirement analysis. DOI: [10.5281/zenodo.20735397](https://doi.org/10.5281/zenodo.20735397) · [data](https://huggingface.co/datasets/myronkoch/reminisce-production-postmortem)
+- **[Reminisce: A Cognitive Science-Inspired Memory Architecture for AI Agents](https://doi.org/10.5281/zenodo.20088749)** (2026) - Three-tier cognitive memory with salience scoring. 98.3% precision on LongMemEvalS benchmark. DOI: [10.5281/zenodo.20088749](https://doi.org/10.5281/zenodo.20088749) · [data](https://huggingface.co/datasets/myronkoch/reminisce-longmemeval-results)
+- **[DeadGraph: A Rights-Aware MCP Knowledge Base for Cultural Heritage Audio Collections](https://huggingface.co/datasets/myronkoch/deadgraph/blob/main/paper.pdf)** (2026) - 13 MCP tools, 200-question benchmark, +60.1 point accuracy gain over raw LLM. Preprint on Hugging Face (Zenodo DOI coming).
 
 ---
 
