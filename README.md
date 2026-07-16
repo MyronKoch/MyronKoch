@@ -19,7 +19,7 @@ I build AI infrastructure and ship it as products. Research becomes tools. Tools
 
 - **Semantic Memory** - [Persistent memory system](https://github.com/MyronKoch/longterm-memory-macos) using PostgreSQL + pgvector. 10,000+ observations, cross-device sync, semantic search across sessions. [Research paper](https://huggingface.co/datasets/myronkoch/reminisce-longmemeval-results/blob/main/paper/reminisce.pdf) with 49.4-55.8% accuracy and ~81% precision on LongMemEvalS (98.3% peak on direct single-session recall).
 
-- **Open Source** - Contributor to [Rectangle](https://github.com/rxhanson/Rectangle) (25K+ stars). Added 8ths/9ths/12ths/16ths window divisions and position cycling system. [Merged PR #1720](https://github.com/rxhanson/Rectangle/pull/1720).
+- **Open Source** - Contributor to [Rectangle](https://github.com/rxhanson/Rectangle) (29K+ stars). Two merged PRs: [#1720](https://github.com/rxhanson/Rectangle/pull/1720) (new grid divisions + cycling) and [#1762](https://github.com/rxhanson/Rectangle/pull/1762) (overlap offset).
 
 - **Shipped Products** - Three products through [Peak Summit Labs](https://peaksummitlabs.com). Local-first, one-time pricing, no telemetry. I build what teams quote 9 months for - solo, using the AI infrastructure I built.
 
@@ -33,13 +33,13 @@ I build AI infrastructure and ship it as products. Research becomes tools. Tools
 | [**longterm-memory-macos**](https://github.com/MyronKoch/longterm-memory-macos) | Semantic memory for Claude - PostgreSQL + pgvector with browser extension and dashboard |
 | [**evm-chains-mcp-server**](https://github.com/MyronKoch/evm-chains-mcp-server) | 111 tools across 7 networks - MCP at scale for complex multi-system orchestration |
 | [**ccxt-mcp-server**](https://github.com/MyronKoch/ccxt-mcp-server) | Unified MCP interface to 106+ financial data APIs with real-time arbitrage detection |
-| [**academic-lectures**](https://github.com/MyronKoch/academic-lectures) | Lecture materials from teaching at Ivy League institutions and Oxford |
+| [**academic-lectures**](https://github.com/MyronKoch/academic-lectures) | Lecture materials from invited talks at Harvard, MIT, Princeton, Cornell Tech, NYU, and Oxford |
 
 ---
 
 ### Speaking
 
-Guest lectures at **Harvard** (x2), **MIT Sloan**, **Princeton**, **Cornell Tech**, **NYU**, and **Oxford**. Keynote at **Web3 Summit Amsterdam**. Eight talks in six months on AI systems, agent orchestration, and MCP infrastructure.
+Invited lectures at **Harvard** (x2), **MIT Sloan**, **Princeton**, **Cornell Tech**, **NYU**, and **Oxford**. Keynote at **Web3 Summit Amsterdam**. Eight talks in six months on AI systems, agent orchestration, and MCP infrastructure.
 
 Full lecture portfolio: [academic-lectures](https://github.com/MyronKoch/academic-lectures)
 
@@ -67,7 +67,7 @@ Full lecture portfolio: [academic-lectures](https://github.com/MyronKoch/academi
 
 ### Technical Writing
 
-45+ posts at [operationalsemantics.dev](https://operationalsemantics.dev) documenting the full journey from MCP experiments to published standard and multi-agent systems. Includes an 8-part series on the Ivy League lecture tour.
+50+ posts at [operationalsemantics.dev](https://operationalsemantics.dev) documenting the full journey from MCP experiments to published standard and multi-agent systems. Includes an 8-part series on the university lecture tour.
 
 ---
 
