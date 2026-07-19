@@ -1,6 +1,7 @@
 # Myron Koch
 
-**Independent AI Researcher & Engineer** - AI systems architecture, multi-agent orchestration, MCP infrastructure. Founder of [Peak Summit Labs](https://peaksummitlabs.com).
+**Independent AI Researcher & Engineer** - AI systems architecture, multi-agent orchestration, MCP infrastructure. 
+Founder of [Peak Summit Labs](https://peaksummitlabs.com).
 
 [![Blog](https://img.shields.io/badge/Blog-operationalsemantics.dev-blue?style=flat-square)](https://operationalsemantics.dev)
 [![BMCPS Standard](https://img.shields.io/badge/Standard-BMCPS_v3.0-orange?style=flat-square)](https://bmcps.dev)
