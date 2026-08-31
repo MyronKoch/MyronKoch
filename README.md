@@ -1,7 +1,7 @@
 # Myron Koch
 
-**Independent AI Researcher & Engineer** 
-- AI systems architecture, multi-agent orchestration, MCP infrastructure. 
+**Independent AI Researcher & Agentic Engineer**
+- Agent harnesses, multi-agent orchestration, MCP infrastructure.
 - Founder of [Peak Summit Labs](https://peaksummitlabs.com).
 
 [![Blog](https://img.shields.io/badge/Blog-operationalsemantics.dev-blue?style=flat-square)](https://operationalsemantics.dev)
@@ -15,9 +15,9 @@
 
 I build AI infrastructure and ship it as products. Research becomes tools. Tools become papers. Papers validate the tools. One flywheel.
 
-- **Multi-Agent Orchestration** - Cross-machine agent coordination across multiple Macs via Cloudflare Durable Objects. 80+ skills, 38 hooks, terminal-spawned agents with backchannel messaging. Not a framework - a production system I use daily.
+- **Agent Harness & Orchestration** - Cross-machine agent coordination across multiple Macs via Cloudflare Durable Objects. A full harness: 80+ skills, 38 hooks, terminal-spawned agents with backchannel messaging. Not a framework - a production system I use daily.
 
-- **MCP Infrastructure** - 16+ MCP servers built. Authored [BMCPS v3.0](https://bmcps.dev), an open standard for blockchain MCP tool interfaces (25 mandatory tools, 238 automated tests, MIT licensed). Built a [meta-server that generates new MCP servers](https://operationalsemantics.dev/posts/11-mcp-factory-complete-story) from the standard.
+- **MCP Infrastructure** - 16+ MCP servers built on MCP, now a Linux Foundation open standard. Authored [BMCPS v3.0](https://bmcps.dev), an open standard for blockchain MCP tool interfaces (25 mandatory tools, 238 automated tests, MIT licensed). Built a [meta-server that generates new MCP servers](https://operationalsemantics.dev/posts/11-mcp-factory-complete-story) from the standard.
 
 - **Semantic Memory** - [Persistent memory system](https://github.com/MyronKoch/longterm-memory-macos) using PostgreSQL + pgvector. 10,000+ observations, cross-device sync, semantic search across sessions. [Research paper](https://huggingface.co/datasets/myronkoch/reminisce-longmemeval-results/blob/main/paper/reminisce.pdf) with 49.4-55.8% accuracy and ~81% precision on LongMemEvalS (98.3% peak on direct single-session recall).
 
@@ -49,8 +49,8 @@ Full lecture portfolio: [academic-lectures](https://github.com/MyronKoch/academi
 
 ### Research
 
-**Papers (published on Zenodo with DOIs; datasets on Hugging Face):**
-- **[PrimeAgentOrchestrator: Memory-Primed Agent Spawning for Personal AI Infrastructure](https://doi.org/10.5281/zenodo.20735389)** (2026) - Spawns coding agents pre-loaded with memories from PostgreSQL + semantic search. 15-task precision study, four months of production deployment. DOI: [10.5281/zenodo.20735389](https://doi.org/10.5281/zenodo.20735389) · [data](https://huggingface.co/datasets/myronkoch/prime-agent-orchestrator)
+**Papers (one preprint on arXiv; all with Zenodo DOIs; datasets on Hugging Face):**
+- **[PrimeAgentOrchestrator: Memory-Primed Agent Spawning for Personal AI Infrastructure](https://arxiv.org/abs/2608.20342)** (2026) - Spawns coding agents pre-loaded with memories from PostgreSQL + semantic search. 15-task precision study, four months of production deployment. **[arXiv:2608.20342](https://arxiv.org/abs/2608.20342)** (cs.AI, cross-listed cs.MA) · DOI: [10.5281/zenodo.20735389](https://doi.org/10.5281/zenodo.20735389) · [data](https://huggingface.co/datasets/myronkoch/prime-agent-orchestrator)
 - **[The Placeholder That Became Production: A Postmortem of Extractive Memory Under Continuous Multi-Agent Ingestion](https://doi.org/10.5281/zenodo.20735397)** (2026) - Production postmortem of the Reminisce memory system; noise ratio 0% → 77.2%, total-cost-of-retirement analysis. DOI: [10.5281/zenodo.20735397](https://doi.org/10.5281/zenodo.20735397) · [data](https://huggingface.co/datasets/myronkoch/reminisce-production-postmortem)
 - **[Reminisce: A Cognitive Science-Inspired Memory Architecture for AI Agents](https://doi.org/10.5281/zenodo.20088749)** (2026) - Three-tier cognitive memory with salience scoring. 49.4-55.8% accuracy and ~81% precision on LongMemEvalS (98.3% peak on direct single-session recall). DOI: [10.5281/zenodo.20088749](https://doi.org/10.5281/zenodo.20088749) · [data](https://huggingface.co/datasets/myronkoch/reminisce-longmemeval-results)
 - **[DeadGraph: A Rights-Aware MCP Knowledge Base for Cultural Heritage Audio Collections](https://huggingface.co/datasets/myronkoch/deadgraph/blob/main/paper.pdf)** (2026) - 13 MCP tools, 200-question benchmark, +60.1 point accuracy gain over raw LLM. Preprint on Hugging Face (Zenodo DOI coming).
