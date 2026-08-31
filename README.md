@@ -1,6 +1,8 @@
 # Myron Koch
 
-**Independent AI Researcher & Agentic Engineer** - agent harnesses, multi-agent orchestration, MCP infrastructure. Founder of [Peak Summit Labs](https://peaksummitlabs.com).
+**Independent AI Researcher & Agentic Engineer**
+- Agent harnesses, multi-agent orchestration, MCP infrastructure.
+- Founder of [Peak Summit Labs](https://peaksummitlabs.com).
 
 [![Blog](https://img.shields.io/badge/Blog-operationalsemantics.dev-blue?style=flat-square)](https://operationalsemantics.dev)
 [![BMCPS Standard](https://img.shields.io/badge/Standard-BMCPS_v3.0-orange?style=flat-square)](https://bmcps.dev)
@@ -15,7 +17,7 @@ I build AI infrastructure and ship it as products. Research becomes tools. Tools
 
 - **Agent Harness & Orchestration** - Cross-machine agent coordination across multiple Macs via Cloudflare Durable Objects. A full harness: 80+ skills, 38 hooks, terminal-spawned agents with backchannel messaging. Not a framework - a production system I use daily.
 
-- **MCP Infrastructure** - 16+ MCP servers built on MCP, now a Linux Foundation open standard. Authored [BMCPS v3.0](https://bmcps.dev), an open standard for safe MCP tool interfaces (25 mandatory tools, 238 automated tests, MIT licensed). Built a [meta-server that generates new MCP servers](https://operationalsemantics.dev/posts/11-mcp-factory-complete-story) from the standard.
+- **MCP Infrastructure** - 16+ MCP servers built on MCP, now a Linux Foundation open standard. Authored [BMCPS v3.0](https://bmcps.dev), an open standard for blockchain MCP tool interfaces (25 mandatory tools, 238 automated tests, MIT licensed). Built a [meta-server that generates new MCP servers](https://operationalsemantics.dev/posts/11-mcp-factory-complete-story) from the standard.
 
 - **Semantic Memory** - [Persistent memory system](https://github.com/MyronKoch/longterm-memory-macos) using PostgreSQL + pgvector. 10,000+ observations, cross-device sync, semantic search across sessions. [Research paper](https://huggingface.co/datasets/myronkoch/reminisce-longmemeval-results/blob/main/paper/reminisce.pdf) with 49.4-55.8% accuracy and ~81% precision on LongMemEvalS (98.3% peak on direct single-session recall).
 
