@@ -35,13 +35,13 @@ I build AI infrastructure and ship it as products. Research becomes tools. Tools
 | [**longterm-memory-macos**](https://github.com/MyronKoch/longterm-memory-macos) | Semantic memory for Claude - PostgreSQL + pgvector with browser extension and dashboard |
 | [**evm-chains-mcp-server**](https://github.com/MyronKoch/evm-chains-mcp-server) | 111 tools across 7 networks - MCP at scale for complex multi-system orchestration |
 | [**ccxt-mcp-server**](https://github.com/MyronKoch/ccxt-mcp-server) | Unified MCP interface to 106+ financial data APIs with real-time arbitrage detection |
-| [**academic-lectures**](https://github.com/MyronKoch/academic-lectures) | Lecture materials from invited talks at Harvard, MIT, Princeton, Cornell Tech, NYU, and Oxford |
+| [**academic-lectures**](https://github.com/MyronKoch/academic-lectures) | Lecture materials from guest lectures to university engineering and blockchain societies at Harvard, MIT, Princeton, Cornell Tech, NYU, and Oxford |
 
 ---
 
 ### Speaking
 
-Invited lectures at **Harvard** (x2), **MIT Sloan**, **Princeton**, **Cornell Tech**, **NYU**, and **Oxford**. Keynote at **Web3 Summit Amsterdam**. Eight talks in six months on AI systems, agent orchestration, and MCP infrastructure.
+Guest lectures to university engineering and blockchain societies at **Harvard** (x2), **MIT**, **Princeton**, **Cornell Tech**, **NYU**, and **Oxford**. Keynote at **Web3 Summit Amsterdam**. Eight talks in six months on AI systems, agent orchestration, and MCP infrastructure.
 
 Full lecture portfolio: [academic-lectures](https://github.com/MyronKoch/academic-lectures)
 
